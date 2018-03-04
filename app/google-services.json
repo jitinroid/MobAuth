@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533303131996",
+    "firebase_url": "https://mobauth-eebae.firebaseio.com",
+    "project_id": "mobauth-eebae",
+    "storage_bucket": "mobauth-eebae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533303131996:android:6e174d3d24f14a2c",
+        "android_client_info": {
+          "package_name": "jitin.com.mobauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533303131996-hvit3tn2rfp31d92c6n45tolr6ltmdqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jitin.com.mobauth",
+            "certificate_hash": "5151ef770e81fa09e6c71f1069a622bbfec0e771"
+          }
+        },
+        {
+          "client_id": "533303131996-0kng7gh14gtuau59r8vspmlpi8oegctr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEBk5oju_2yn965OZhhoP28IyrG5lATQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533303131996-0kng7gh14gtuau59r8vspmlpi8oegctr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
