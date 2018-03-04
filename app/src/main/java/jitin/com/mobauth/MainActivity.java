@@ -13,7 +13,6 @@ import com.google.firebase.auth.FirebaseAuth;
 public class MainActivity extends AppCompatActivity implements
         View.OnClickListener {
 
-    //butter
     private static final String TAG = "PhoneAuthActivity";
     private FirebaseAuth mAuth;
 
